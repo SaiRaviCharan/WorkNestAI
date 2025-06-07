@@ -1,5 +1,12 @@
 #  WorkNestAI - AI SaaS Landing Page
 
+
+## 🚀 Live Demo
+
+The project is now deployed and live!  
+Check it out here: [https://worknestai.netlify.app](https://worknestai.netlify.app)
+<br>
+
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
