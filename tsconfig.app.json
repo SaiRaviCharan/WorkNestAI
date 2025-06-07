@@ -2,9 +2,9 @@
   "compilerOptions": {
     "composite": true,
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
-    "target": "ES2020",
+    "target": "ESNext", // changed from ES2020 to ESNext
     "useDefineForClassFields": true,
-    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "lib": ["DOM", "ESNext"], // changed from ["ES2020", "DOM", "DOM.Iterable"] to ["DOM", "ESNext"]
     "module": "ESNext",
     "skipLibCheck": true,
 
